@@ -4,7 +4,6 @@ font-size: 200%;
 }
 
 p {
-    color: #0715cd;
     text-decoration: line-through;
 }
 
@@ -20,3 +19,16 @@ text-decoration: underline;
 h1,h2{
 background-color: #888888;
 }
+
+p,h2{
+color: #394611;
+}
+
+#intro{
+border: 1px solid black;
+}
+
+.spotlight{
+background-color: #fefe22;
+}
+
