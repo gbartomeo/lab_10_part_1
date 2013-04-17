@@ -11,6 +11,9 @@ p {
 h1{
 color: #4ac925;
 text-transform: uppercase;
+margin: 20px;
+padding: 40px;
+border: 5px dashed #FF0000;
 }
 
 h2{
