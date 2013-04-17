@@ -1,0 +1,22 @@
+body{
+font-family: sans-serif;
+font-size: 200%;
+}
+
+p {
+    color: #0715cd;
+    text-decoration: line-through;
+}
+
+h1{
+color: #4ac925;
+text-transform: uppercase;
+}
+
+h2{
+text-decoration: underline;
+}
+
+h1,h2{
+background-color: #888888;
+}
